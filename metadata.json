@@ -1,0 +1,6 @@
+{
+  "name": "WASLA TALIB — وصلة الطالب",
+  "description": "المنصة الرقمية الوطنية لتنقل وخدمات الطلبة الجامعيين في الجزائر. تنقّل أسهل، حياة طلابية أفضل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
